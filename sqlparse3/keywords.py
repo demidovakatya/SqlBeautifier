@@ -428,7 +428,7 @@ KEYWORDS = {
     'TEMPORARY': tokens.Keyword,
     'TERMINATE': tokens.Keyword,
     'THAN': tokens.Keyword,
-    'TIMESTAMP': tokens.Keyword,
+    # 'TIMESTAMP': tokens.Keyword,
     'TIMEZONE_HOUR': tokens.Keyword,
     'TIMEZONE_MINUTE': tokens.Keyword,
     'TO': tokens.Keyword,
